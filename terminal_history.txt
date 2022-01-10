@@ -1,0 +1,263 @@
+   50  ssh-add ~/.ssh/id_rsa
+   51  ls -al ~/.ssh
+   52  ls -al ~/.shh
+   53  ssh -V
+   54  .ssh/
+   55  pwd
+   56  ssh-keygen -t
+   57  .ssh/
+   58  ls -al ~/.ssh
+   59  ssh-keygen -t rsa -b 4096 -C "simgalbut@gmail.com"
+   60  /Users/simchagalbut/.ssh/id_rsa
+   61  /Users/simchagalbut/.ssh/id_rsa
+   62  ls -al ~/.ssh
+   63  ssh-keygen -t rsa -b 4096 -C "simgalbut@gmail.com"
+   64  eval "$(ssh-agent -s)"
+   65  ssh-add ~/.ssh/id_rsa
+   66  pbcopy < ~/.ssh/id_rsa.pub
+   67  pbcopy < ~/.ssh/id_rsa.pub
+   68  ssh -Tgit@github.com
+   69  ssh -Tgit@github.com
+   70  ssh -T git@github.com
+   71  ssh -T git@github.com
+   72  git pull
+   73  conda --version
+   74  conda update anaconda
+   75  conda create -n dev python=3.7 anaconda
+   76  conda activate dev
+   77  conda init zsh
+   78  echo # {SHELL}
+   79  echo #{SHELL}
+   80  python -m ipykernel install --user --name dev
+   81  conda install -c conda-forge nodejs
+   82  PWD
+   83  cd desktop
+   84  pwd
+   85  cd fintech_workspace
+   86  cd fintech 
+   87  git clone git@github.com:sgalbut/sgalbut.git
+   88  pwd
+   89  touch repo
+   90  git add .
+   91  git rm --cached sgalbut
+   92  use -f to force removal
+   93  git rm --cached sgalbut
+   94  git commit -m "class material"
+   95  git push origin main
+   96  git pull
+   97  git pull
+   98  git pull
+   99  git pull
+  100  git pull
+  101  git pull
+  102  cd desktop
+  103  cd fintech workspace
+  104  cd fintech_workspace
+  105  cd fintech 
+  106  git pull
+  107  pwd
+  108  git checkout -b fintech 
+  109  git add -A 
+  110  git commit -m "updated material"
+  111  git push origin fintech 
+  112  git checkout main
+  113  git pull
+  114  cd
+  115  pwd
+  116   cd fintech_workspace
+  117  pwd
+  118  cd /Users/simchagalbut/fintech_workspace/fintech
+  119  pwd
+  120  cd fintech_workspace
+  121  cd desktop
+  122  cd fintech_workspace
+  123  cd fintech 
+  124  pwd
+  125  git pull
+  126  pwd
+  127  git checkout fintech 
+  128  git init
+  129  ls
+  130  pwd
+  131  ls
+  132  git init
+  133  ls
+  134  pwd
+  135  git pull
+  136  cd desktop
+  137  cd fintech_workspace
+  138  ls
+  139  cd fintech 
+  140  ls
+  141  pwd
+  142  ls
+  143  git checkout fintech
+  144  git checkout main
+  145  git pull
+  146  git pull
+  147  /Users/simchagalbut/opt/anaconda3/pkgs/dal-2021.3.0-hecd8cb5_555/lib/libonedal_core.1.dylib ; exit;
+  148  /Users/simchagalbut/opt/anaconda3/envs/dev/lib/libmkl_avx512.1.dylib ; exit;
+  149  /Users/simchagalbut/opt/anaconda3/envs/dev/lib/libmkl_avx2.1.dylib ; exit;
+  150  cd desktop
+  151  cd fintech_workspace
+  152  cd fintech 
+  153  ls
+  154  git checkout -b fintech
+  155  git add -A
+  156  git commit -m "class material"
+  157  git push origin fintech 
+  158  ls
+  159  git pull
+  160  git pul
+  161  git pull
+  162  git pull
+  163  cd desktop
+  164  ls
+  165  cd fintech_workspace
+  166  ls
+  167  cd fintech 
+  168  ls
+  169  pwd
+  170  git pull
+  171  ls
+  172  cd ..
+  173  ls
+  174  pwd
+  175  ls
+  176  cd ..
+  177  cd fintech_workspace
+  178  ls
+  179  ls
+  180  cd fintech 
+  181  ls
+  182  git pull
+  183  ls -al ~/.ssh
+  184  pip install questionary
+  185  pip install fire
+  186  where is python
+  187  cd /usr/bin/python
+  188  ls
+  189  cd opt
+  190  cd anaconda3
+  191  cd bin
+  192  pip install fire
+  193  pip install fire
+  194  cd desktop
+  195  ls
+  196  cd fintech_workspace
+  197  ls
+  198  cd challenges
+  199  ls
+  200  challenge_2
+  201  ls
+  202  cd chellenge_2
+  203  ls
+  204  pwd
+  205  cd chellenge_2
+  206  cd challenge_2
+  207  ls
+  208  cd loan_qualifier_app
+  209  ls
+  210  git init
+  211  git add . 
+  212  commit -m "initial commit"
+  213  git status
+  214  git -m "first push"
+  215  git remote add origin https://github.com/sgalbut/challenge2
+  216  git push -u origin master 
+  217  git push -u origin main
+  218  git config --list
+  219  git status
+  220  git remote add origin
+  221  git remote add origin https://github.com/sgalbut/challenge2
+  222  git push 
+  223  git push --set-upstream origin master
+  224  ls
+  225  pwd
+  226  git init
+  227  git add . 
+  228  git status 
+  229  git commit -m "first push"
+  230  git remote add origin https://github.com/sgalbut/loan_analyzer_app
+  231  git push -u origin master 
+  232  git push -u origin master 
+  233  git push -u origin master 
+  234  git push -u origin master 
+  235  simgalbut@gmail.com
+  236  simgalbut@gmail.com
+  237  git push -u origin master
+  238  git push -u origin master
+  239  git remote add origin https://github.com/sgalbut/loan_analyzer_app
+  240  git push -u origin master
+  241  git remove origin
+  242  git remote -rm
+  243  git remote rm origin
+  244  git remote add origin https://github.com/sgalbut/loan_analyzer_app
+  245  git push -u origin master
+  246  pip install fire 
+  247  rm -rf ~/anaconda3
+  248  pip install fire
+  249  rm -rf ~/./opt/anaconda3
+  250  /usr/bin/python3 /Users/simchagalbut/Desktop/fintech_workspace/fintech/Challenge2/loan_qualifier_app/app.py
+  251  /usr/bin/python3 /Users/simchagalbut/Desktop/fintech_workspace/fintech/Challenge2/loan_qualifier_app/app.py
+  252  /usr/bin/python3 /Users/simchagalbut/Desktop/fintech_workspace/fintech/Challenge2/loan_qualifier_app/app.py
+  253  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  254  python3 get-pip.py
+  255  pip install fire 
+  256  pip install fire
+  257  pip --version
+  258  /Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip
+  259  pip install fier 
+  260  pip install fire 
+  261  python --version
+  262  which python 
+  263  pip3
+  264  which pip
+  265  python -m pip install
+  266  python get-pip.py
+  267  https://bootstrap.pypa.io/pip/2.7/get-pip.py
+  268  https://bootstrap.pypa.io/pip/2.7/get-pip.py
+  269  py.
+  270  brew install python
+  271  python3 --version
+  272  pip install fire
+  273  python3 get-pip.py
+  274  pip install fire 
+  275  pip3 install fire 
+  276  pip install fire 
+  277  pip3 install fire 
+  278  python get-pip.py
+  279  python --version
+  280  ln -s -f /usr/local/bin/python3.7 /usr/local/bin/python
+  281  nano ~/.bash_profile
+  282  ls -l /usr/local/bin/python*
+  283  brew install python
+  284  ls -l /usr/local/bin/python*
+  285  alias python=python3
+  286  python --version
+  287  pip3 install fire
+  288  pip3 install questionary
+  289  cd desktop
+  290  cd fintech_workspace
+  291  cd challenges
+  292  cd challenge_2
+  293  ls
+  294  cd loan_qualifier_app
+  295  ls
+  296  cd data
+  297  ls
+  298  pwd
+  299  ls
+  300  cd daily_rate_sheet.csv
+  301  pwd
+  302  cd ..
+  303  ls
+  304  pwd
+  305  history 50 > terminal_history.txt
+  306  git status
+  307  git add . 
+  308  git status
+  309  git push -m "added save_csv function for loans that qualify and further organize code"
+  310  git commit -m "added save_csv function for loans that qualify and further organize code"
+  311  git push origin master 
+  312  pwd
