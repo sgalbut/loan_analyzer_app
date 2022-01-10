@@ -261,3 +261,10 @@
   310  git commit -m "added save_csv function for loans that qualify and further organize code"
   311  git push origin master 
   312  pwd
+  313  history 50 > terminal_history.txt
+  314  git add . 
+  315  git status
+  316  git commit -m "adding terminal history commands"
+  317  git push origin master 
+  318  ls
+  319  pwd
