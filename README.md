@@ -25,7 +25,7 @@ In this section, you should include detailed installation notes containing code 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
 
 when the program is ran the client enters the location of the laon data sheet which is a .csv sheet. the program then prompts a series of questions which the client enters, 1) What's your credit score? 2) What's your current amount of monthly debt? 3) What's your total monthly income? 3) What's your desired loan amount? 4) What's your home value? 
-it then takes that info and spits back the lons the client would qulaify for with the LTV ratio and DTI ratio
+it then takes that info and spits back the lons the client would qulaify for with the LTV ratio and DTI ratio.
 ---
 
 ## Contributors
